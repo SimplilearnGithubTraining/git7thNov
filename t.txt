@@ -1,1 +1,2 @@
 git revert test
+before revert test
