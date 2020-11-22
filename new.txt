@@ -2,10 +2,8 @@ Welcome to Git and GitHub Training
 
 From Simplilearn
 
-<<<<<<< HEAD
 Delivered by Abhresh Sugandhi
 
 from Pune
-=======
-Delivery by Abhresh Sugandhi
->>>>>>> parent of b7d35cc... new changes
+
+India
