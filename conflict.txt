@@ -1,1 +1,1 @@
-Welcome to Coflict Demo
+Welcome to git and github training on Coflict Demo
